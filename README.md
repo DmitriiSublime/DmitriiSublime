@@ -2,7 +2,7 @@
 
 My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript, React. 
 
-Technologies & Tools <img width="75px" src="https://img.icons8.com/?size=512&id=aJPLw-4jUCR3&format=png" />
+Technologies & Tools <img width="55px" src="https://img.icons8.com/?size=512&id=aJPLw-4jUCR3&format=png" />
 
 <table>
   <tr>
