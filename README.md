@@ -4,6 +4,20 @@ My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learni
 
 Technologies & Tools
 
+<table>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>Jane</td>
+    <td>Doe</td>
+  </tr>
+</table>
+
+
+
+
 
 <table>
      <tr>
