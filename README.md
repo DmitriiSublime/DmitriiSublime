@@ -14,7 +14,7 @@ Technologies & Tools
     
   </tr>
   <tr>
-    <td>JS</td>
+    <td style="display: flex; justify-content: center">JS</td>
     <td>Webpack</td>
     <td>React</td>
     <td>Redux</td>
