@@ -2,7 +2,7 @@
 
 My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript, React. 
 
-Technologies & Tools
+Technologies & Tools <img src="https://icons8.com/icon/aJPLw-4jUCR3/man-technologist" />
 
 <table>
   <tr>
