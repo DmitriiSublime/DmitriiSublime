@@ -3,11 +3,10 @@
 My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript, React. 
 
 Technologies & Tools
-<p>
-     </p>
-</p>
 
-<tr>
+
+<table>
+     <tr>
     <th><img style="width: 75px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" /></th>
     <th>JS</th>    
 </tr>
@@ -27,6 +26,7 @@ Technologies & Tools
     <th><img style="width: 75px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" /></th>
     <th>Webpacks</th>    
 </tr>
+</table>
 
 
 <!--
