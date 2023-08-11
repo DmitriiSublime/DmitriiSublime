@@ -6,11 +6,11 @@ Technologies & Tools
 
 <table>
   <tr>
-    <td>John</td>
+    <td><img style="width: 75px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" /></td>
     <td>Doe</td>
   </tr>
   <tr>
-    <td>Jane</td>
+    <td>JS</td>
     <td>Doe</td>
   </tr>
 </table>
