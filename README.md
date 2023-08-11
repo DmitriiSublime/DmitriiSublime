@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript, React. 
+
+
+<table>wfwe</table>
 <!--
 **DmitriiSublime/DmitriiSublime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
