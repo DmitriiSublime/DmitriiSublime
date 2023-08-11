@@ -3,6 +3,7 @@
 My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript, React. 
 
 Technologies & Tools <img width="75px" src="https://icons8.com/icon/aJPLw-4jUCR3/man-technologist" />
+<a target="_blank" href="https://icons8.com/icon/aJPLw-4jUCR3/man-technologist">Programmer</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
 <table>
