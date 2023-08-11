@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript, React. 
+My name is Dmitrii and I'm a Frontend developer. Right now I'm focused on learning JavaScript and React. 
 
 Technologies & Tools <img width="55px" src="https://img.icons8.com/?size=512&id=aJPLw-4jUCR3&format=png" />
 
