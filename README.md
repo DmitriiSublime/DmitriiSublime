@@ -6,8 +6,8 @@ Technologies & Tools <img width="25px" src="https://img.icons8.com/?size=512&id=
 
 <table>
   <tr>
-    <td><img style="width: 75px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" /></td>
-    <td><img width="75px" src="https://img.icons8.com/color/96/webpack.png" alt="webpack"/></td>
+    <td><img style="width: 85px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" /></td>
+    <td><img style="width: 75px" src="https://img.icons8.com/color/96/webpack.png" alt="webpack"/></td>
     <td><img style="width: 75px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" /></td>
     <td><img style="width: 75px" src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" /></td>
     <td><img style="width: 75px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" /></td>
