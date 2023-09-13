@@ -29,6 +29,7 @@ Technologies & Tools <img width="25px" src="https://img.icons8.com/?size=512&id=
 
 </table>
 
+My statistic from CodeWars
 [![codewars](https://www.codewars.com/users/DmitriiSublime/badges/large)](https://www.codewars.com/users/username)
 
 
