@@ -29,7 +29,7 @@ Technologies & Tools <img width="25px" src="https://img.icons8.com/?size=512&id=
 
 </table>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DmitriiSublime/badges/large)
+[![codewars](https://www.codewars.com/users/DmitriiSublime/badges/large)](https://www.codewars.com/users/username)
 
 
 
